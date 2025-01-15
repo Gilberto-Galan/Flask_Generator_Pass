@@ -23,7 +23,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado Python 3 y pip en t
 
 Clona este repositorios
 ```bash
-  git clone https://github.com/tu-usuario/generador-de-contraseñas.git
+  git clone https://github.com/Gilberto-Galan/Flask_Generator_Pass.git
 ```
 
 Navega al directorio del proyecto:

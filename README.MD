@@ -11,7 +11,7 @@ Además, incluye una funcionalidad de copiar la contraseña al portapapeles para
 - **Python:** Lenguaje de programación para la logica de la aplicación.
 - **Bootstrap 5:** Framework CSS para diseñar la interfaz de usuario.
 - **Jinja2:** Motor de plantillas integrado en Flask para la renderización dinamica de HTML.
-- **JavaScritp:** Para agregar la funcionalidad de copiar al portapapeles.
+- **JavaScript:** Para agregar la funcionalidad de copiar al portapapeles.
 - **Librerias de Python:** `random` y `string` para generar contraseñas aleatorias
 
 

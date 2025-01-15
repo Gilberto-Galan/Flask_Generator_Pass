@@ -29,7 +29,7 @@ Clona este repositorios
 Navega al directorio del proyecto:
 
 ```bash
-cd generador-de-contraseñas
+cd Flask-generator
 ```
 
 Instala las dependencias necesarias:
